@@ -339,7 +339,7 @@ nav ul li a {
 
 @media screen and (max-width: 864px) {
     .nav-container {
-        position: relative;
+        position: static;
         background-color: transparent;
     }
 
