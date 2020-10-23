@@ -1,1 +1,1 @@
-# The first iteration of my personal site.
+# portfolio site v0.1
